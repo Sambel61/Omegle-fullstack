@@ -32,7 +32,7 @@ function start() {
 }
 
 // connect ot server
-const socket = io('http://localhost:8000');
+const socket = io('https://omegle-fullstack-j82c.onrender.com');
 
 
 // disconnectin event
